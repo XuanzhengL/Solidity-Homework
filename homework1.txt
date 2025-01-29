@@ -10,7 +10,7 @@ cd C:\Users\86178\DE-Solidity
 python -m http.server
 It shows that:
 Success! Your current Balance is 34265940162716520 Wei
-
+The balance displayed in Wei matches the amount in MetaMask after converting ETH to Wei. The JavaScript function uses eth_getBalance, a reliable method to fetch account balances directly from the blockchain. Since there are no errors in execution, I believe the result is correct.
 
 Part B
 SPDX (Software Package Data Exchange) is an open-source initiative maintained by the Linux Foundation, designed to standardize license information for software packages in order to facilitate software license compliance management. It provides a unified set of license identifiers and formats, enabling developers and businesses to more easily track and manage the licenses of codebases, thereby reducing the risk of copyright disputes and compliance issues.
