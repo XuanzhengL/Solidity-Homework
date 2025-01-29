@@ -1,0 +1,42 @@
+
+Exercise 1 
+Part A
+4. Comment and Review a classmate
+I comment in https://github.com/Dauphine-Digital-Economics/Class-Directory/pull/30, in Duy Tung’s PR
+
+5. Connecting frontend to Smart Contracts
+Use these codes in cmd and then openhttp://localhost:8000/index.html
+cd C:\Users\86178\DE-Solidity
+python -m http.server
+It shows that:
+Success! Your current Balance is 34265940162716520 Wei
+
+
+Part B
+SPDX (Software Package Data Exchange) is an open-source initiative maintained by the Linux Foundation, designed to standardize license information for software packages in order to facilitate software license compliance management. It provides a unified set of license identifiers and formats, enabling developers and businesses to more easily track and manage the licenses of codebases, thereby reducing the risk of copyright disputes and compliance issues.
+
+Project 1: For newly launched DeFi projects, it is recommended to use either the GNU General Public License (GPL) or the Apache 2.0 License. Both licenses allow the sharing of code within the open-source community, with GPL enforcing that derivative projects also adopt the same open-source license, whereas Apache 2.0 offers more flexible terms, allowing commercial use and modification.
+
+Project 2: As Google Cloud Web3 seeks to open-source certain libraries while retaining proprietary rights to core technologies, the MIT License or Apache 2.0 License is recommended. The MIT License is simple and permissive, allowing developers to freely use, modify, and distribute the code. Apache 2.0 provides patent protection, making it ideal for enterprise-level projects that require partial open-sourcing but need to protect core technologies.
+
+Part C
+
+1.A Virtual Machine (VM) is a virtualization technology that simulates the functionality of physical hardware, creating a software-based computing environment similar to a physical computer. It allows multiple independent operating systems and applications to run on a single physical device. For example, the Ethereum Virtual Machine (EVM) is specifically designed to execute smart contract code, providing decentralized computing capabilities for the Ethereum blockchain.
+
+2.Comparison of EVM (Ethereum Virtual Machine) and SVM (Solana Virtual Machine):
+Developer Scale and Distribution:
+EVM is the most widely adopted smart contract execution environment in the blockchain space, supporting Ethereum and its compatible chains (such as BSC). EVM has a large developer community; according to Electric Capital’s report, Ethereum has the most active developers, and other EVM-compatible chains can share development tools and infrastructure, making it relatively easier for developers to migrate.
+SVM, based on the Rust language, is used in the Solana ecosystem, unlike Ethereum's Solidity. While the developer community in Solana is smaller compared to EVM, Solana’s high throughput (TPS) and low transaction costs have attracted numerous Web3 gaming, decentralized social (DeSoc), and DeFi developers. Additionally, funding from the Solana Foundation has contributed to the growth of its developer ecosystem.
+Technical Advantages and Features:
+EVM operates on an account model with smart contract execution based on the Solidity language, offering high compatibility but relatively low on-chain execution efficiency. EVM depends on Gas fees to price computational resources, leading to severe congestion during peak times. Layer 2 solutions (e.g., Rollups) are being developed to address these issues.
+SVM uses a parallel computing model based on accounts, enabling higher throughput (up to thousands of transactions per second) and much lower transaction costs compared to EVM. The core advantage of SVM is its single-layer state architecture, which makes on-chain data sharing more efficient. However, the Solana ecosystem faces a higher risk of single-point failures (the network has experienced downtime in the past).
+Community Characteristics:
+The EVM development community is mature, with widespread developer support, including tools such as Truffle, Hardhat, and Foundry, and is maintained long-term by the Ethereum Foundation. EVM compatibility is strong, with many new blockchains introducing EVM-compatible layers to attract developers.
+The SVM ecosystem is relatively more closed, with developers primarily relying on Rust for smart contract development. Solana Labs and its foundation have driven a significant number of ecosystem projects.
+
+ 
+Adress is :0xF144e0dD0dB0E88AE18Eb22B4B829392bc9Ab163
+ 
+
+
+ 
