@@ -34,7 +34,9 @@ Community Characteristics:
 The EVM development community is mature, with widespread developer support, including tools such as Truffle, Hardhat, and Foundry, and is maintained long-term by the Ethereum Foundation. EVM compatibility is strong, with many new blockchains introducing EVM-compatible layers to attract developers.
 The SVM ecosystem is relatively more closed, with developers primarily relying on Rust for smart contract development. Solana Labs and its foundation have driven a significant number of ecosystem projects.
 
- 
+Exercise 2
+
+PartC
 Adress is :0xF144e0dD0dB0E88AE18Eb22B4B829392bc9Ab163
  
 
