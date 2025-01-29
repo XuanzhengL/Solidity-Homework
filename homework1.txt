@@ -38,7 +38,8 @@ Exercise 2
 
 PartC
 Adress is :0xF144e0dD0dB0E88AE18Eb22B4B829392bc9Ab163
- 
+
+About masking, Arina give me the contract adress. I use the code"cast call 0x7D087D71926bF209711D1fB1fC5B600bea753984 "binaryToDecimal(string)" “1011” --rpc-url wss://ethereum-sepolia-rpc.publicnode.com " in gitbash and it works
 
 
  
